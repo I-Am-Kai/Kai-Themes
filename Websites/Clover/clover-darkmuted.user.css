@@ -1,0 +1,252 @@
+/* ==UserStyle==
+@name        Clover Dark
+@namespace   KaiThemes
+@version     1.0.0
+@homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
+@updateURL   https://raw.githubusercontent.com/StylishThemes/Quora-Dark/master/quora-dark.user.css
+@license     CC-BY-SA-4.0
+@author      Kai-Themes
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("clover.com") {
+body {
+    background-color: #1f1f1f;
+    color: #b3b2b7;
+}
+
+.styles__login-view-container___gY-rQ {
+    background-color: #232323;
+    border: 1px solid #393939;
+}
+
+.styles__login-view-container___gY-rQ div h1 {
+    color: #b3b3b1;
+}
+
+.styles__login-view-container___gY-rQ div p {
+    color: #b3b3b1;
+}
+
+header#clover-header {
+    background: RGB(35, 35, 35);
+    border-bottom: 1px solid #393939;
+}
+
+.styles__handler___184eY {
+    border-left: 1px solid #393939;
+}
+
+.styles__sidebar-container___27vdl {
+    background-color: #232323;
+    color: #b3b2b7;
+}
+
+.styles__scroll-gradient___1VSF6 {
+    background: linear-gradient(to bottom, rgba(37, 51, 56, 0), #232323);
+}
+
+.styles__context-switcher-header___1oUgw {
+    color: #b9b9b9;
+}
+
+footer.clover-footer {
+    border-top: 1px solid #3a3839;
+    background: #232323;
+}
+
+.widget {
+    background: #232323;
+}
+
+h2 {
+    color: #b3b2b7;
+}
+
+a.key-numbers__stat__number:hover {
+    color: #aac4ca;
+}
+
+.key-numbers__stat__number {
+    color: #758d96;
+}
+
+h5 {
+    color: #b3b2b7;
+}
+
+.notification--info {
+    background: #232323;
+    border: 1px solid #6581a7;
+}
+
+.styles__carousel-inner___2-lL5 .styles__item___3UtQ8 {
+    background-color: #313131;
+}
+
+.styles__controls-left___2voID {
+    color: #7c8386;
+    background-color: #232323;
+}
+
+.styles__controls-right___OOXID {
+    color: #7c8386;
+    background-color: #232323;
+}
+
+.app-header-white {
+    background-color: #232323!important;
+}
+.app-header, .app-header-white {
+    border-bottom: 1px solid #3a3839;
+}
+
+section.c-box-filter {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+label {
+    color: #b3b2b7;
+}
+
+legend, pre {
+    color: #b3b2b7;
+}
+
+section.c-box-date {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+section.c-box-date a:link, section.c-box-date a:visited {
+    color: #7a96bd;
+}
+
+.c-button-outline-icon, a.c-button-outline-icon {
+    background-color: #232323;
+    color: #b3b2b7;
+    border-color: #3a3839;
+}
+
+.c-button-outline-icon:active, .c-button-outline-icon:focus, .c-button-outline-icon:hover, .c-button-outline-icon:hover .icon-wrapper, a.c-button-outline-icon:active, a.c-button-outline-icon:focus, a.c-button-outline-icon:hover, a.c-button-outline-icon:hover .icon-wrapper {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-button-outline-icon span, a.c-button-outline-icon span {
+    color: #499a58;
+}
+
+.c-input-as-link, .c-input-field, .c-search-autocomplete .c-search-autocomplete-input .c-search-field-inline, .c-search-autocomplete-with-icons .c-search-autocomplete-input .c-search-field-inline {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-dropdown-filter {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+ul.dropdown-menu.t__align-left.t-dropdown-list {
+    background-color: #232323;
+}
+
+.c-dropdown-filter-wrap .dropdown-menu, .filter-dropdown .dropdown-menu {
+    border-color: #3a3839;
+}
+
+.c-search-autocomplete-no-results, ul.dropdown-menu>li>a {
+    color: #b3b2b7;
+}
+
+.dropdown-menu>li>a:focus {
+    background-color: #313131;
+    color: #499a58;
+}
+
+.dropdown-menu>li>a:hover {
+    background: 0 0;
+    color: #499a58;
+}
+
+.c-table-empty, .e__reporting-noinfo {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-items-per-wrap {
+    border-right: 1px solid #3a3839;
+}
+
+.c-input-field-inline {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-t-info-banner {
+    color: #b3b2b7;
+    background-color: #232323;
+    border: 1px solid #499a58;
+}
+
+tr.c-table-row.t-employee-row {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-table-row~.c-table-row:hover {
+    background-color: #3a3939;
+}
+
+.styles__password-reentry-container___3BKgU {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+.mdc-text-field--focused:not(.mdc-text-field--disabled):not(.mdc-text-field--outlined):not(.mdc-text-field--textarea) .mdc-text-field__input {
+    border-bottom-color: #499a58;
+}
+
+.mdc-text-field--focused:not(.mdc-text-field--disabled) .mdc-floating-label {
+    color: #499a58;
+}
+
+.mdc-button.main.cta:hover:not(:disabled), .mdc-button.main.cta:focus:not(:disabled) {
+    background-color: #499a58;
+}
+.mdc-button.main.cta:not(:disabled) {
+    background-color: #499a58;
+}
+
+.mdc-button.main.ghost:hover, .mdc-button.main.ghost:focus {
+    color: #000000;
+    background-color: #499a58;
+}
+
+.mdc-text-field:not(.mdc-text-field--disabled):not(.mdc-text-field--outlined):not(.mdc-text-field--textarea) .mdc-text-field__input:hover {
+    border-bottom-color: #366d40;
+}
+
+.c-input-field:read-only {
+    color: #b2b2ba;
+    background: #232323;
+    border-color: #3a3839;
+}
+
+.c-input-label {
+    color: #b3b3b3;
+}
+
+.base-dropdown, .c-dropdown, .inventory-copy-dropdown {
+    background-color: #232323;
+    box-shadow: inset 0 0px 0px #f1f1f1;
+    border-color: #3a3839 !important;
+    color: #b3b3b3 !important;
+}
+}
