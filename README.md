@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="githubdark-logo" src="https://i.imgur.com/O9bip1h.png" width="500">
+  <img alt="kai-themes-logo" src="https://i.imgur.com/O9bip1h.png" width="500">
 </p>
 
 ## About
@@ -14,12 +14,12 @@ A theme name is named for it's Color Scheme. Each theme may support multiple web
 ## Installation
 A userstyle extension is required, common ones include:
 
-🎨 Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
+🎨 Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).<br>
 🎨 xStyle for [Firefox](https://addons.mozilla.org/firefox/addon/xstyle/) or [Chrome](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj).
 
 Then:
 
-📦 [Install the user.css file](https://github.com/I-Am-Kai/Kai-Themes/wiki) for the theme and website you want. 
+📦 [Install the user.css file](https://github.com/I-Am-Kai/Kai-Themes/wiki) for the theme and website you want. <br>
 💻 Automatic updates are supported.<br>
 
 <br>
@@ -31,7 +31,7 @@ If you would like to contribute to this repository, please...
 1. 👓 Read the [contribution guidelines](CONTRIBUTING.md).
 2. 👌 Create a pull request!
 
-Thanks to all that have [contributed](AUTHORS) so far!
+Thanks to all that have [contributed](https://github.com/I-Am-Kai/Kai-Themes/graphs/contributors) so far!
 
 <br>
 
