@@ -1,7 +1,6 @@
 <p align="center">
   <img alt="githubdark-logo" src="https://i.imgur.com/O9bip1h.png" width="500">
 </p>
-<br>
 
 ## About
 Various theme overrides for websites around the web. Mainly variations of dark mode themes for websites that do not offer it built in. 
@@ -9,6 +8,8 @@ Various theme overrides for websites around the web. Mainly variations of dark m
 Please review our Wiki for more in depth information, as well as direct user.css download links for websites that each theme supports.
 
 A theme name is named for it's Color Scheme. Each theme may support multiple websites following the same color scheme design. To find out which websites are supported with a theme please visit it's Wiki page.
+
+<br>
 
 ## Installation
 A userstyle extension is required, common ones include:
@@ -21,6 +22,8 @@ Then:
 📦 [Install the user.css file](https://github.com/I-Am-Kai/Kai-Themes/wiki) for the theme and website you want. 
 💻 Automatic updates are supported.<br>
 
+<br>
+
 ## Contributions
 
 If you would like to contribute to this repository, please...
@@ -29,6 +32,8 @@ If you would like to contribute to this repository, please...
 2. 👌 Create a pull request!
 
 Thanks to all that have [contributed](AUTHORS) so far!
+
+<br>
 
 ## Theme Examples
 
