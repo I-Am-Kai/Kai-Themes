@@ -1,0 +1,182 @@
+/* ==UserStyle==
+@name        BP OF Dark
+@namespace   KaiThemes
+@version     1.0.0
+@homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
+@updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/Websites/Clover/clover-darkmuted.user.css
+@license     CC-BY-SA-4.0
+@author      Kai-Themes
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("manager.bypassmobile.com") {
+.application .theme--light.v-navigation-drawer, .theme--light .v-navigation-drawer {
+    background-color: #232323;
+}
+
+.application.theme--light {
+    background: #1f1f1f;
+    color: #b3b3b3;
+}
+
+.application .theme--dark.v-toolbar, .theme--dark .v-toolbar {
+    background-color: #232323 !important;
+    color: #b3b3b3;
+}
+
+.v-btn .v-btn__content .v-icon {
+    color: #b3b3b3;
+}
+
+.v-list__tile__title {
+    color: #b3b3b3;
+}
+
+.application .theme--light.v-icon, .theme--light .v-icon {
+    color: #b3b3b3;
+}
+
+.application .theme--light.v-input:not(.v-input--is-disabled) input, .application .theme--light.v-input:not(.v-input--is-disabled) textarea, .theme--light .v-input:not(.v-input--is-disabled) input, .theme--light .v-input:not(.v-input--is-disabled) textarea {
+    color: #b3b3b3;
+}
+
+.application .theme--light.v-label, .theme--light .v-label {
+    color: #b3b3b3;
+}
+
+input[type="text"] {
+    border-bottom: 1px solid #b3b3b3;
+}
+
+.application .theme--light.v-list .v-list__group__header:hover, .application .theme--light.v-list .v-list__tile--highlighted, .application .theme--light.v-list .v-list__tile--link:hover, .theme--light .v-list .v-list__group__header:hover, .theme--light .v-list .v-list__tile--highlighted, .theme--light .v-list .v-list__tile--link:hover {
+    background: #2d2d2d;
+}
+
+.primary--text {
+    color: #6ccd80 !important;
+}
+
+table tr:nth-child(2n) {
+    background: #232323;
+}
+
+table tr {
+    border: 1px solid #393939;
+}
+
+table {
+    border: 1px solid #3a3839;
+}
+
+.application .theme--light.v-list, .theme--light .v-list {
+    background: #1f1f1f;
+    color: rgb(179, 179, 179);
+}
+
+a {
+    color: #218cc1;
+}
+
+.application .theme--light.v-list .v-list__tile__mask, .theme--light .v-list .v-list__tile__mask {
+    color: rgb(179, 179, 179);
+    background: #42714c;
+}
+
+.application .theme--light.v-list, .theme--light .v-list {
+    background: #232323;
+    color: rgb(179, 179, 179);
+}
+
+.application .theme--light.v-text-field:not(.v-input--has-state) .v-input__slot:hover:before, .theme--light .v-text-field:not(.v-input--has-state) .v-input__slot:hover:before {
+    border-color: rgb(179, 179, 179);
+}
+.application .theme--light.v-text-field .v-input__slot:before, .theme--light .v-text-field .v-input__slot:before {
+    border-color: rgb(179, 179, 179);
+}
+
+.v-btn__content {
+    color: #6ccd80;
+}
+
+.application .theme--light.v-card, .theme--light .v-card {
+    background-color: #232323;
+    color: rgb(179, 179, 179);
+}
+
+.application .theme--light.v-table, .theme--light .v-table {
+    background-color: #232323;
+    color: rgb(179, 179, 179);
+}
+
+.application .theme--light.v-datatable .v-datatable__actions, .theme--light .v-datatable .v-datatable__actions {
+    background-color: #232323;
+    color: rgb(179, 179, 179);
+    border-top: 1px solid #3a3839;
+}
+
+.application .theme--light.v-datatable thead th.column.sortable.active, .application .theme--light.v-datatable thead th.column.sortable.active i, .application .theme--light.v-datatable thead th.column.sortable:hover, .theme--light .v-datatable thead th.column.sortable.active, .theme--light .v-datatable thead th.column.sortable.active i, .theme--light .v-datatable thead th.column.sortable:hover {
+    color: rgb(179, 179, 179);
+}
+
+.application .theme--light.v-table thead tr:first-child, .theme--light .v-table thead tr:first-child {
+    border-bottom: 1px solid #3a3839;
+}
+
+table tr {
+    border: 1px solid #3a3839;
+}
+
+.application .theme--light.v-btn:not(.v-btn--icon):not(.v-btn--flat), .theme--light .v-btn:not(.v-btn--icon):not(.v-btn--flat) {
+    background-color: #232323;
+}
+
+.application .theme--light.v-table tbody tr:hover:not(.v-datatable__expand-row), .theme--light .v-table tbody tr:hover:not(.v-datatable__expand-row) {
+    background: #2b2b2b;
+}
+
+th.column.sortable.text-xs-left {
+    color: #b3b3b3;
+}
+
+.v-select__selection.v-select__selection--comma {
+    color: #b3b3b3;
+}
+
+.application .theme--light.v-btn.v-btn--disabled, .application .theme--light.v-btn.v-btn--disabled .v-btn__loading, .application .theme--light.v-btn.v-btn--disabled .v-icon, .theme--light .v-btn.v-btn--disabled, .theme--light .v-btn.v-btn--disabled .v-btn__loading, .theme--light .v-btn.v-btn--disabled .v-icon {
+    color: rgb(179, 179, 179)!important;
+}
+
+.application .theme--light.v-picker__body, .theme--light .v-picker__body {
+    background: #1f1f1f;
+}
+
+.primary {
+    background-color: #232323 !important;
+    border-color: #3a3839 !important;
+}
+
+.application .theme--light.v-date-picker-table th, .theme--light .v-date-picker-table th {
+    color: rgb(179, 179, 179);
+}
+
+.application .theme--light.v-date-picker-header .v-date-picker-header__value:not(.v-date-picker-header__value--disabled) strong:not(:hover), .theme--light .v-date-picker-header .v-date-picker-header__value:not(.v-date-picker-header__value--disabled) strong:not(:hover) {
+    color: rgb(179, 179, 179)!important;
+}
+
+.accent {
+    background-color: #232323 !important;
+    border-color: #3a3839 !important;
+}
+
+.application .theme--light.v-text-field.v-input--is-disabled .v-input__slot:before, .theme--light .v-text-field.v-input--is-disabled .v-input__slot:before {
+    -o-border-image: repeating-linear-gradient(90deg,rgba(0,0,0,.38),rgba(0,0,0,.38) 2px,transparent 0,transparent 4px) 1 repeat;
+    border-image: repeating-linear-gradient(90deg,rgb(179, 179, 179),rgb(179, 179, 179) 2px,#b3b3b3 0,#b3b3b3 4px) 1 repeat;
+}
+
+.application .theme--light.v-input--is-disabled .v-label, .application .theme--light.v-input--is-disabled input, .application .theme--light.v-input--is-disabled textarea, .theme--light .v-input--is-disabled .v-label, .theme--light .v-input--is-disabled input, .theme--light .v-input--is-disabled textarea {
+    color: rgb(179, 179, 179);
+}
+
+input[type="number"] {
+    color: #b3b3b3;
+}
+}
