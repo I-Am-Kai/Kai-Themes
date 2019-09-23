@@ -862,4 +862,101 @@ md-toolbar:not(.md-menu-toolbar).top-bar-toolbar md-icon {
     border: 1px solid #3a3838;
     background-color: #232323;
 }
+
+.bp-button.bp-bulk-action:not(.print) .bp-dropdown-icon {
+    background-color: rgb(31, 31, 31, 0.1);
+}
+
+.missing-actions-hint {
+    color: #b3b3b3;
+}
+
+.bp-tag {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+#standsheets .variances {
+    background-color: #232323;
+}
+
+table.standsheet .sub-item-row td, table.standsheet .category-row td {
+    background-color: #232323;
+}
+
+#standsheets .standsheet-action-bar {
+    background-color: #1f1f1f;
+    border-top: 1px solid #3a3839;
+}
+
+table.standsheet thead tr.first-header th {
+    border-bottom: 1px solid #3a3839;
+}
+
+.border-right {
+    border-right: solid 1px #3a3839;
+}
+
+.border-left {
+    border-left: solid 1px #3a3839;
+}
+
+.border-head {
+    border-left: solid 1px #3a3839;
+    border-right: solid 1px #3a3839;
+}
+
+#standsheets .standsheets-counts-table th.mass-action .expand-all {
+    border: 1px solid #3a3839;
+    background-color: #232323;
+}
+
+.nav-tabs>li>a:hover {
+    border-color: #3a3839;
+}
+.nav>li>a:hover, .nav>li>a:focus {
+    background-color: #3a3a3a;
+}
+
+#standsheets .standsheets-verify-table tr.menu-item {
+    background-color: #1f1f1f;
+}
+
+#standsheets .standsheets-verify-table tr {
+    border-bottom: 1px solid #3a3839;
+}
+
+#standsheets .standsheets-verify-table {
+    border: 1px solid #3a3839;
+}
+
+#standsheets .standsheets-verify-table tr.modifier {
+    background-color: #313131;
+}
+
+#tills .choose-event .dropdown-toggle {
+    border: 1px solid #3a3839;
+}
+
+#tills .choose-event .dropdown-toggle i.icon-angle-down {
+    border-left: 1px solid #3a3839;
+}
+
+#tills .tills thead {
+    background: #232323;
+}
+
+#tills .tills thead tr.totals th {
+    background: #404040;
+}
+
+.table .location-headings>td {
+    background: #1f1f1f;
+    border-bottom: 1px solid #3a3839;
+}
+
+#tills .tills thead tr {
+    border-color: #3a3839;
+}
+
 }
