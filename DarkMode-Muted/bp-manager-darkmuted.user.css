@@ -856,4 +856,10 @@ md-toolbar:not(.md-menu-toolbar).top-bar-toolbar md-icon {
     background-color: rgb(60, 94, 111);
     border-color: rgb(34, 59, 64);
 }
+
+.select2-container-multi .select2-choices .select2-search-choice {
+    color: #b3b3b3;
+    border: 1px solid #3a3838;
+    background-color: #232323;
+}
 }

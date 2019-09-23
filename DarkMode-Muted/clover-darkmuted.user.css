@@ -249,4 +249,247 @@ tr.c-table-row.t-employee-row {
     border-color: #3a3839 !important;
     color: #b3b3b3 !important;
 }
+
+.styles__login-view-container___gY-rQ div {
+    color: rgb(255, 255, 255);
+}
+
+.notification--error {
+    background: #ad5a56;
+    border: 1px solid #ffcccc;
+}
+
+.notification--error:before {
+    color: #ffffff;
+}
+
+.styles__context-switcher-header___1oUgw:hover {
+    background-color: #3c3c3c;
+}
+
+.styles__dropdown-menu___2VMZk.styles__simple-dropdown___U8P58.mdc-menu {
+    background-color: #232323;
+}
+
+.styles__dropdown___1L3Vb .mdc-list-item:not(.blank-item), .styles__sidebar-dropdown___1_iDd .mdc-list-item:not(.blank-item) {
+    color: #b3b2b7;
+}
+
+.styles__dropdown___1L3Vb .mdc-list-item:not(.blank-item):hover, .styles__sidebar-dropdown___1_iDd .mdc-list-item:not(.blank-item):hover {
+    background-color: #3c3c3c;
+}
+
+.styles__search-filter___3lRSV input {
+    background-color: rgb(31, 31, 31);
+    color: #b3b2b7;
+}
+
+.styles__dropdown___1L3Vb .mdc-list-item.styles__current___1s3CB, .styles__sidebar-dropdown___1_iDd .mdc-list-item.styles__current___1s3CB {
+    background: rgb(53, 53, 53);
+}
+
+.c-table-row {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b3b2b7;
+}
+
+.c-display-table-row-section div[class^=col-], .c-table-row-disabled, .c-table-row~.c-table-row {
+    border-color: #3a3839;
+    color: #b3b3b3;
+    background-color: #232323 !important;
+}
+
+a.no-link-style {
+    color: #b3b2b7;
+}
+
+h2.block-title, h5.block-title {
+    background-color: #2c3a3f;
+}
+
+section.c-box-summary {
+    background-color: #25542b;
+    border: 1px solid #393939;
+}
+
+.c-table-row:hover {
+    background-color: #3a3a3a;
+}
+
+.c-button-tiny:active, .c-button-tiny:focus, .c-button-tiny:hover {
+    background-color: #717171;
+    color: #bdbdbd;
+}
+
+.c-popup-orange {
+    color: #b9b9b9;
+}
+.c-dialog-orange, .c-popup-orange {
+    background-color: #865122;
+    border-color: #6d461f;
+}
+
+.styles__landing___3S_Mu .styles__title___39ldf {
+    color: #b3b3b3;
+}
+
+.styles__landing___3S_Mu .styles__note___11BRe {
+    color: #b3b3b3;
+}
+
+.c-customer-table .c-customer-header {
+    background-color: #232323;
+    border-right: 1px solid #393939;
+}
+.table>thead>tr>th {
+    border-bottom: 2px solid #393939;
+}
+
+.c-customer-table .c-customer-header-cell {
+    color: #b3b3b3;
+}
+
+.c-customer-table tbody > tr:hover {
+    background-color: #292929;
+}
+
+i.fa.fa-trash-o {
+    color: #b3b3b3;
+}
+
+.c-button-tiny-outline, .c-button-tiny-outline-green, .c-button-tiny-outline-green-red, .c-button-tiny-outline-red, .c-button-tiny-outline-red-green, a.c-button-tiny-outline, a.c-button-tiny-outline-green, a.c-button-tiny-outline-green-green, a.c-button-tiny-outline-green-green-red, a.c-button-tiny-outline-green-red, a.c-button-tiny-outline-green-red-green, a.c-button-tiny-outline-green-red-red, a.c-button-tiny-outline-red, a.c-button-tiny-outline-red-green, a.c-button-tiny-outline-red-green-green, a.c-button-tiny-outline-red-green-red, a.c-button-tiny-outline-red-red, a.c-button-tiny-outline-red-red-green, aa.c-button-tiny-outline-green, aa.c-button-tiny-outline-green-green, aa.c-button-tiny-outline-green-green-red, aa.c-button-tiny-outline-green-green-red-red, aa.c-button-tiny-outline-green-red, aa.c-button-tiny-outline-green-red-green, aa.c-button-tiny-outline-green-red-green-red, aa.c-button-tiny-outline-green-red-red, aa.c-button-tiny-outline-green-red-red-green, aa.c-button-tiny-outline-red, aa.c-button-tiny-outline-red-green, aa.c-button-tiny-outline-red-green-green, aa.c-button-tiny-outline-red-green-green-red, aa.c-button-tiny-outline-red-green-red, aa.c-button-tiny-outline-red-green-red-green, aa.c-button-tiny-outline-red-red, aa.c-button-tiny-outline-red-red-green, aa.c-button-tiny-outline-red-red-green-green, aaa.c-button-tiny-outline-green-green-red, aaa.c-button-tiny-outline-green-green-red-red, aaa.c-button-tiny-outline-green-red, aaa.c-button-tiny-outline-green-red-green, aaa.c-button-tiny-outline-green-red-green-red, aaa.c-button-tiny-outline-green-red-red, aaa.c-button-tiny-outline-green-red-red-green, aaa.c-button-tiny-outline-red-green, aaa.c-button-tiny-outline-red-green-green, aaa.c-button-tiny-outline-red-green-green-red, aaa.c-button-tiny-outline-red-green-red, aaa.c-button-tiny-outline-red-green-red-green, aaa.c-button-tiny-outline-red-red-green, aaa.c-button-tiny-outline-red-red-green-green {
+    background-color: #232323;
+    border-color: #3a3839;
+    color: #b2b3b7;
+}
+
+.c-dropdown:active, .c-dropdown:focus, .c-dropdown:hover {
+    background-color: #3a3a3a;
+    box-shadow: inset 0 0px 0px #d2d2d2;
+}
+
+.styles__nav--core--selected___3i5jG {
+    background-color: #181819;
+    box-shadow: inset 3px 0 0 #007e3b;
+}
+
+.app-market-header {
+    background: #232323;
+    border-bottom: 1px solid #3a3839;
+}
+
+.app-market-header .logo-wrapper a .title {
+    color: #b3b3b3;
+}
+
+.app-market-header .search-box-wrapper .c-search-autocomplete-input input {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+.app-card .app-image {
+    border: 1px solid #393939;
+}
+
+.app-card .app-name span {
+    color: #b3b3b3;
+}
+
+.app-detail-header .app-icon img {
+    border: 1px solid #393939;
+}
+
+.app-detail-header .app-info .app-name {
+    color: #b3b3b3;
+}
+
+.collapsible-section {
+    border-bottom: 1px solid #393939;
+}
+
+.app-detail-description p {
+    color: #b3b3b3;
+}
+
+.widget-header {
+    color: #b3b3b3;
+}
+
+.collapsible-section-body {
+    color: #b3b3b3;
+}
+
+.app-detail-header .app-info .more-options:active, .app-detail-header .app-info .more-options:focus, .app-detail-header .app-info .more-options:hover {
+    background-color: #313131;
+}
+
+.app-detail-header .app-info .dropdown-menu a {
+    color: #b3b3b3;
+}
+
+.app-detail-header .app-info .dropdown-menu i {
+    color: #b3b3b3;
+}
+
+h1 {
+    color: #b3b3b3;
+}
+
+.styles__dropdown___3KzuL .styles__dropdown-selection___3W225 > div {
+    color: #b3b3b3;
+}
+
+.styles__dropdown___3KzuL .styles__dropdown-selection___3W225 label {
+    color: #b3b3b3;
+}
+
+.mdc-menu {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+}
+
+.styles__menu-item___37ytR.styles__menu-item___37ytR.mdc-ripple-upgraded.mdc-ripple-surface.mdc-list-item {
+    color: #b3b3b3;
+}
+
+.styles__menu___1jJ8B .styles__menu-item___37ytR:hover {
+    background-color: #3a3a3a;
+}
+
+.mdc-button.flat:hover, .mdc-button.flat:focus {
+    background-color: #313131;
+}
+
+.styles__handler___184eY:hover, .styles__handler--open___aScSa {
+    background-color: #3a3a3a;
+    color: #b3b3b3;
+}
+
+.styles__modal___pB8wi {
+    background-color: #232323;
+}
+
+.styles__fab-wrapper___3lL2p .styles__fab___3Kyw- {
+    background-color: #232323;
+    color: #b3b3b3;
+}
+
+hr.solid {
+    border-color: #3a3839;
+}
+
+.c-box-gray {
+    background-color: #232323;
+    border-color: #3a3839;
+}
+
+h3 {
+    color: #b3b3b3;
+}
+
+.c-box-gray, .c-box-gray-md, .c-box-yellow, .c-box-yellow-left, .e__box-activation {
+    color: #b3b3b3;
+}
+
 }
