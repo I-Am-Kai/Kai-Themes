@@ -1,0 +1,209 @@
+/* ==UserStyle==
+@name        IA Dark
+@namespace   KaiThemes
+@version     1.0.0
+@homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
+@updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/bp-ia-darkmuted.user.css
+@license     CC-BY-SA-4.0
+@author      Kai-Themes
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("internal.bypassmobile.com") {
+.navigation-menu-sidenav {
+    background: #232323;
+}
+
+.navigation-menu-sidenav md-content {
+    background: #232323 !important;
+}
+
+.navigation-menu-sidenav md-expansion-panel md-expansion-panel-collapsed {
+    background: #232323;
+}
+
+md-content.main-view-content {
+    background: #1f1f1f;
+}
+
+md-content.main-view-content .main-view:not(.no-card) {
+    background: #232323;
+}
+
+md-list.md-default-theme md-list-item.md-2-line .md-list-item-text h3, md-list md-list-item.md-2-line .md-list-item-text h3, md-list.md-default-theme md-list-item.md-2-line .md-list-item-text h4, md-list md-list-item.md-2-line .md-list-item-text h4, md-list.md-default-theme md-list-item.md-3-line .md-list-item-text h3, md-list md-list-item.md-3-line .md-list-item-text h3, md-list.md-default-theme md-list-item.md-3-line .md-list-item-text h4, md-list md-list-item.md-3-line .md-list-item-text h4 {
+    color: #b3b3b3;
+}
+
+md-content.main-view-content md-toolbar:not(.md-menu-toolbar) {
+    background: #232323;
+    color: #b3b3b3;
+}
+
+md-icon.md-default-theme, md-icon {
+    color: rgb(179, 179, 179);
+}
+
+md-toolbar.top-bar-toolbar.ng-scope._md.master-panel-locked._md-toolbar-transitions {
+    background-color: rgb(115, 16, 8) !important;
+}
+
+md-list.md-default-theme md-list-item.md-2-line .md-list-item-text p, md-list md-list-item.md-2-line .md-list-item-text p, md-list.md-default-theme md-list-item.md-3-line .md-list-item-text p, md-list md-list-item.md-3-line .md-list-item-text p {
+    color: rgb(179, 179, 179);
+}
+
+md-input-container.md-default-theme:not(.md-input-invalid).md-input-has-value label, md-input-container:not(.md-input-invalid).md-input-has-value label {
+    color: rgb(179, 179, 179);
+}
+
+md-input-container.md-default-theme:not(.md-input-focused):not(.md-input-invalid) label.md-required:after, md-input-container:not(.md-input-focused):not(.md-input-invalid) label.md-required:after {
+    color: rgb(162,19,9);
+}
+
+md-input-container.md-default-theme .md-input, md-input-container .md-input {
+    color: rgb(179, 179, 179);
+    border-color: #3a3839;
+}
+
+input.ng-pristine.ng-valid.ng-empty.flex.ng-touched {
+    background-color: #1f1f1f;
+    border: 1px solid #3a3839;
+}
+
+md-select.md-default-theme .md-select-value, md-select .md-select-value {
+    border-bottom-color: #3a3839;
+}
+
+md-select-menu.md-default-theme md-content, md-select-menu md-content {
+    background: rgb(35, 35, 35);
+}
+
+md-select-menu.md-default-theme md-content md-option:not([disabled]):focus, md-select-menu md-content md-option:not([disabled]):focus, md-select-menu.md-default-theme md-content md-option:not([disabled]):hover, md-select-menu md-content md-option:not([disabled]):hover {
+    background: rgb(47, 47, 47);
+}
+
+md-select-menu.md-default-theme md-content md-option, md-select-menu md-content md-option {
+    color: rgb(179, 179, 179);
+}
+
+md-autocomplete.md-default-theme, md-autocomplete {
+    background: rgb(35, 35, 35);
+}
+
+.md-button.md-content-theme.md-raised[disabled], .md-button.md-content-theme.md-fab[disabled] {
+    background-color: rgba(82, 82, 82, 0.35);
+}
+
+md-autocomplete input:not(.md-input) {
+    color: #797979;
+}
+
+.md-autocomplete-suggestions-container.md-default-theme, .md-autocomplete-suggestions-container {
+    background: rgb(35, 35, 35);
+}
+
+.md-autocomplete-suggestions-container.md-default-theme li, .md-autocomplete-suggestions-container li {
+    color: rgb(179, 179, 179);
+}
+
+md-input-container.md-default-theme label, md-input-container label, md-input-container.md-default-theme .md-placeholder, md-input-container .md-placeholder {
+    color: rgb(89, 89, 89);
+}
+
+md-checkbox.md-default-theme:not([disabled]).md-primary:not(.md-checked) .md-icon, md-checkbox:not([disabled]).md-primary:not(.md-checked) .md-icon {
+    border-color: #3a3839;
+}
+
+md-content.md-default-theme, md-content {
+    color: rgb(179, 179, 179);
+    background-color: rgb(250,250,250);
+}
+
+.md-button.md-default-theme.md-raised[disabled], .md-button.md-raised[disabled], .md-button.md-default-theme.md-fab[disabled], .md-button.md-fab[disabled] {
+    background-color: rgba(165, 165, 165, 0.25);
+}
+
+md-select.md-default-theme .md-select-value.md-select-placeholder, md-select .md-select-value.md-select-placeholder {
+    color: rgba(179, 179, 179, 0.62);
+}
+
+md-input-container:not(.md-input-focused):not(.md-input-invalid) md-select.md-default-theme .md-select-value span:first-child:after, md-input-container:not(.md-input-focused):not(.md-input-invalid) md-select .md-select-value span:first-child:after {
+    color: rgb(162,19,9);
+}
+
+input#input_1177 {
+    background-color: #232323;
+    color: #b3b3b3;
+}
+
+.background-white {
+    background-color: #232323;
+}
+
+md-toast.md-warn .md-toast-content {
+    background: #731008;
+}
+
+input.ng-pristine.ng-untouched.ng-valid.ng-empty.flex {
+    background-color: #1f1f1f;
+    border: 1px solid #3a3839;
+}
+
+md-checkbox.md-default-theme:not(.md-checked) .md-icon, md-checkbox:not(.md-checked) .md-icon {
+    border-color: #3a3839;
+}
+
+table.md-table td.md-cell {
+    color: rgb(179, 179, 179);
+    border-top: 1px rgba(0,0,0,.12) solid;
+}
+
+table.md-table th.md-column {
+    color: rgb(179, 179, 179);
+}
+
+.md-button.md-account-standings-theme.md-raised[disabled], .md-button.md-account-standings-theme.md-fab[disabled] {
+    background-color: rgba(115, 115, 115, 0.71);
+}
+
+md-radio-button.md-account-standings-theme .md-off {
+    border-color: #3a3839;
+}
+
+.navigation-menu-sidenav md-expansion-panel.md-open md-expansion-panel-expanded md-expansion-panel-header .md-expansion-panel-header-container .md-button:not(.third-level) {
+    border-top: 1px solid #3a3839;
+}
+
+.navigation-menu-sidenav md-expansion-panel md-expansion-panel-expanded md-expansion-panel-header .md-expansion-panel-header-container {
+    background: #292929;
+}
+
+.navigation-menu-sidenav md-expansion-panel md-expansion-panel-expanded md-expansion-panel-content {
+    background: #1f1f1f;
+}
+
+.navigation-menu-sidenav .nav-menu-container .top-level-container:not(:first-child)>.md-button {
+    border-top: 1px solid #3a3839;
+}
+
+.navigation-menu-sidenav md-expansion-panel md-expansion-panel-collapsed .md-button {
+    white-space: nowrap;
+    border-top: 1px solid #3a3839;
+}
+
+md-menu-content.md-default-theme, md-menu-content {
+    background-color: rgb(35, 35, 35);
+}
+
+span.ng-scope {
+    color: #b3b3b3;
+}
+
+.md-button.md-content-theme.md-primary.md-raised, .md-button.md-content-theme.md-primary.md-fab {
+    color: rgb(179, 179, 179);
+    background-color: rgb(9, 90, 25);
+}
+
+md-select-header input.select-search {
+    background-color: #232323;
+}
+
+}
