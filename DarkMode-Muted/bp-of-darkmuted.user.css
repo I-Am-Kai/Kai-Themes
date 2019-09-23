@@ -8,7 +8,7 @@
 @author      Kai-Themes
 @preprocessor uso
 ==/UserStyle== */
-@-moz-document domain("manager.bypassmobile.com") {
+@-moz-document domain("order-forensics.bypassmobile.com") {
 .application .theme--light.v-navigation-drawer, .theme--light .v-navigation-drawer {
     background-color: #232323;
 }
