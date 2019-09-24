@@ -959,4 +959,23 @@ table.standsheet thead tr.first-header th {
     border-color: #3a3839;
 }
 
+table.inventory-audits-table tbody tr.storage-area td {
+    background-color: #232323;
+    border-color: #3a3838;
+}
+
+#inventory-audit .table tbody tr.light-gray-actions {
+    background-color: #232323;
+}
+
+table.inventory-audits-table tbody tr.category td {
+    background-color: #2d2d2d;
+}
+
+input.keynav.uom-quantity {
+    background-color: #232323;
+    border: 1px solid #3a3839;
+    color: #b3b3b3;
+}
+
 }
