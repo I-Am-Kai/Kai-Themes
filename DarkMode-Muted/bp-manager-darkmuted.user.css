@@ -978,4 +978,18 @@ input.keynav.uom-quantity {
     color: #b3b3b3;
 }
 
+.listTree>ul>li {
+    background-color: #232323;
+    border-color: #3a3838;
+}
+
+i.icon-black {
+    color: #b3b3b3 !important;
+}
+
+.listTree>ul>li>ul>li {
+    background-color: #292929;
+    border-color: #3a3838;
+}
+
 }
