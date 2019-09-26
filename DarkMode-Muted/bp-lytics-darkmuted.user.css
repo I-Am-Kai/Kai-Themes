@@ -1,0 +1,97 @@
+/* ==UserStyle==
+@name        BP Analytics Dark
+@namespace   KaiThemes
+@version     1.0.0
+@homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
+@updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/bp-lytics-darkmuted.user.css
+@license     CC-BY-SA-4.0
+@author      Kai-Themes
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("analytics.bypassmobile.com") {
+.loginPage .page-standalone.is-not-widget {
+    background: #1f1f1f;
+    border-top-color: #c74608 !important;
+}
+
+.loginPage .box-wrap {
+    border: 1px solid #3a3839;
+    background-color: #232323;
+}
+.box-wrap {
+    background: #1f1f1f;
+}
+
+.loginPage .box-headline h1, .loginPage .box-headline h2, .loginPage .box-headline h3 {
+    color: #b3b3b3;
+}
+
+.box-outFooter a, .box-wrap a {
+    color: #b3b3b3;
+}
+
+.loginPage .separate-right::before {
+    background-color: #3a3839;
+}
+
+.login-pages-indigo {
+    color: #aab6c3;
+}
+
+body.gradient {
+    background-color: #1f1f1f;
+}
+
+#projectsCentral h3 {
+    border-bottom: 1px solid #3a3839;
+    color: #b3b3b3;
+}
+
+#projectsCentral #myProjects li.enabled:hover {
+    background-color: #3e3e3e;
+}
+
+#projectsCentral #myProjects li {
+    border-bottom: 1px solid #3a3839;
+    color: #5e89c1;
+}
+
+.userProjects {
+    background-color: #232323;
+    border-radius: 5px;
+    padding-top: 8px;
+}
+
+.overlay {
+    border: 1px solid #3a3839;
+    background: #232323;
+    box-shadow: 0 1px 0 0 #1f1f1f inset, 0 3px 10px rgba(0,0,0,.25);
+}
+
+body {
+    color: #b3b3b3;
+}
+
+.gd-list-view-item.is-focused {
+    background: #3e3e3e;
+}
+
+#projectsCentral .messageAlert {
+    background: #0b4c46;
+}
+
+#projectsCentral .info h2 {
+    color: #b3b3b3;
+}
+
+#projectsCentral .messageAlert p, #projectsCentral .messageInfo p {
+    color: #b3b3b3;
+}
+
+.loginPage .submit-button {
+    background: #5274a2;
+}
+
+.loginPage .submit-button:hover {
+    background: #618ac1;
+}
