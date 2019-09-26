@@ -9,90 +9,394 @@
 @preprocessor uso
 ==/UserStyle== */
 @-moz-document domain("analytics.bypassmobile.com") {
-.loginPage .page-standalone.is-not-widget {
-    background: #1f1f1f;
-    border-top-color: #c74608 !important;
-}
-
-.loginPage .box-wrap {
-    border: 1px solid #3a3839;
-    background-color: #232323;
-}
-.box-wrap {
-    background: #1f1f1f;
-}
-
-.loginPage .box-headline h1, .loginPage .box-headline h2, .loginPage .box-headline h3 {
-    color: #b3b3b3;
-}
-
-.box-outFooter a, .box-wrap a {
-    color: #b3b3b3;
-}
-
-.loginPage .separate-right::before {
-    background-color: #3a3839;
-}
-
-.login-pages-indigo {
-    color: #aab6c3;
-}
-
-body.gradient {
-    background-color: #1f1f1f;
-}
-
-#projectsCentral h3 {
-    border-bottom: 1px solid #3a3839;
-    color: #b3b3b3;
-}
-
-#projectsCentral #myProjects li.enabled:hover {
-    background-color: #3e3e3e;
-}
-
-#projectsCentral #myProjects li {
-    border-bottom: 1px solid #3a3839;
-    color: #5e89c1;
-}
-
-.userProjects {
-    background-color: #232323;
-    border-radius: 5px;
-    padding-top: 8px;
-}
-
-.overlay {
-    border: 1px solid #3a3839;
-    background: #232323;
-    box-shadow: 0 1px 0 0 #1f1f1f inset, 0 3px 10px rgba(0,0,0,.25);
-}
-
-body {
-    color: #b3b3b3;
-}
-
-.gd-list-view-item.is-focused {
-    background: #3e3e3e;
-}
-
-#projectsCentral .messageAlert {
-    background: #0b4c46;
-}
-
-#projectsCentral .info h2 {
-    color: #b3b3b3;
-}
-
-#projectsCentral .messageAlert p, #projectsCentral .messageInfo p {
-    color: #b3b3b3;
-}
-
-.loginPage .submit-button {
-    background: #5274a2;
-}
-
-.loginPage .submit-button:hover {
-    background: #618ac1;
-}
-}
+    .loginPage .page-standalone.is-not-widget {
+        background: #1f1f1f;
+        border-top-color: #c74608 !important;
+    }
+    
+    .loginPage .box-wrap {
+        border: 1px solid #3a3839;
+        background-color: #232323;
+    }
+    .box-wrap {
+        background: #1f1f1f;
+    }
+    
+    .loginPage .box-headline h1, .loginPage .box-headline h2, .loginPage .box-headline h3 {
+        color: #b3b3b3;
+    }
+    
+    .box-outFooter a, .box-wrap a {
+        color: #b3b3b3;
+    }
+    
+    .loginPage .separate-right::before {
+        background-color: #3a3839;
+    }
+    
+    .login-pages-indigo {
+        color: #aab6c3;
+    }
+    
+    body.gradient {
+        background-color: #1f1f1f;
+    }
+    
+    #projectsCentral h3 {
+        border-bottom: 1px solid #3a3839;
+        color: #b3b3b3;
+    }
+    
+    #projectsCentral #myProjects li.enabled:hover {
+        background-color: #3e3e3e;
+    }
+    
+    #projectsCentral #myProjects li {
+        border-bottom: 1px solid #3a3839;
+        color: #5e89c1;
+    }
+    
+    .userProjects {
+        background-color: #232323;
+        border-radius: 5px;
+        padding-top: 8px;
+    }
+    
+    .overlay {
+        border: 1px solid #3a3839;
+        background: #232323;
+        box-shadow: 0 1px 0 0 #1f1f1f inset, 0 3px 10px rgba(0,0,0,.25);
+    }
+    
+    body {
+        color: #b3b3b3;
+    }
+    
+    .gd-list-view-item.is-focused {
+        background: #3e3e3e;
+    }
+    
+    #projectsCentral .messageAlert {
+        background: #0b4c46;
+    }
+    
+    #projectsCentral .info h2 {
+        color: #b3b3b3;
+    }
+    
+    #projectsCentral .messageAlert p, #projectsCentral .messageInfo p {
+        color: #b3b3b3;
+    }
+    
+    .loginPage .submit-button {
+        background: #5274a2;
+    }
+    
+    .loginPage .submit-button:hover {
+        background: #618ac1;
+    }
+        
+    body.app {
+        background: #1f1f1f !important;
+    }
+        
+    .nav-global {
+        background-color: rgb(5, 50, 72);
+    }
+    
+    button.q-dashboardSwitcher {
+        text-shadow: none;
+        color: #b2b4b3;
+    }
+    
+    .savedFilters button.dashboardView {
+        color: #b2b4b3;
+    }
+    
+    #pagesContainer {
+        border: 1px solid #3a3839;
+        background: #232323;
+    }
+    
+    .yui3-dashboardtabs-content .bg {
+        background-color: #232323;
+        background-image: none;
+        border-bottom: 2px solid #3a3839;
+        border-top: 1px solid #3a3839;
+    }
+    
+    .yui3-dashboardtab .label {
+        text-shadow: none;
+        color: #b2b4b3;
+    }
+    
+    .yui3-dashboardtab {
+        box-shadow: 1px 0 0 0 #302c2e inset;
+        border-left: 1px solid #3a3839;
+        border-right: 1px solid #3a3839;
+        background-image: none;
+        background-color: #232323;
+        border-top: 1px solid #3a3839;
+    }
+    
+    .yui3-dashboardtabs-content .lc, .yui3-dashboardtabs-content .rc {
+        background-image: none;
+    }
+    
+    .yui3-dashboardtab-selected, .yui3-dashboardtab-selected:hover {
+        background-image: none !important;
+        border-top: 1px solid #3a3839;
+        border-bottom: 1px solid #3a3839;
+    }
+    
+    .button-primary, .button-primary.disabled:hover {
+        border-color: #3a3839;
+        text-shadow: none !important;
+        background-image: none !important;
+        background-color: #232323;
+        color: #b2b4b3;
+    }
+    
+    textdashboardwidget-bigText .yui3-c-textdashboardwidget-label {
+        color: #b2b4b3;
+    }
+    
+    .yui3-c-reportdashboardwidget .yui3-c-reportdashboardwidget-reportLabel, .yui3-c-reportdashboardwidget .yui3-c-reportdashboardwidget-reportLink {
+        color: #b2b4b3;
+    }
+    
+    .yui3-c-dashboardwidget-editMode .yui3-c-tabfilteritem .titleContainer input, .yui3-c-tabfilteritem .filterItemTitle {
+        color: #b2b4b3;
+    }
+    
+    .yui3-c-linedashboardwidget .lineContent {
+        background: #3a3839;
+    }
+    
+    .containerBody .cell {
+        border-color: #3a3839;
+        background: #1d1d1d;
+    }
+    
+    .containerBody .columns.empty, .containerBody .columns.metric, .containerBody .mainHeaderTab .columns.attribute, .containerBody .mainHeaderTab .columns.metric, .containerBody .mainHeaderTab .rows.attribute {
+        border-top: 1px solid #3a3839;
+    }
+    
+    .containerBody .attribute span, .containerBody .metric span {
+        text-shadow: none !important;
+    }
+    
+    .containerBody .attribute, .containerBody .metric {
+        color: #b2b4b3;
+    }
+    
+    .containerBody .element {
+        color: #6e96ad;
+    }
+    
+    .containerBody .total {
+        color: #6dad6e;
+    }
+    
+    .icon-right-dropdown:after {
+        border-left: 1px solid #3a3839;
+    }
+    
+    .containerBody .columns.element, .containerBody .columns.total {
+        border-top: 1px solid #3a3839;
+        background: #1d1d1d;
+    }
+    
+    .gdc-menu-simple {
+        box-shadow: 0 1px 0 0 #3a3839 inset, 0 3px 10px rgba(0,0,0,.25);
+        border: 1px solid #3a3839;
+        background: #232323;
+    }
+    
+    .gdc-menu-simple li a {
+        color: #b2b4b3;
+    }
+    
+    .gdc-menu-simple li.label a {
+        color: #b2b4b3;
+    }
+    
+    .containerBody .cell .sort {
+        background: none;
+        background-color: #232323;
+    }
+    
+    .gdc-mezzoline {
+        border-top: 1px solid #3a3839;
+        background: #232323;
+    }
+    
+    ::-webkit-scrollbar-track-piece {
+        background-color: #6f6f6f !important
+       ;
+    }
+    
+    .yui3-dashboardtab-selected, .yui3-dashboardtab-selected:hover {
+        background-image: none !important;
+        background-color: #535353;
+    }
+    
+    .gdc-menu-simple li.sticker-demo:hover, .gdc-menu-simple li:hover, .gdc-menu-simple li:hover .gdc-menu-simple li:hover {
+        background-color: #434343;
+    }
+    
+    .yui3-c-headlinedashboardwidget .reportContainer .indicatorContainer .indicatorValue {
+        color: #b2b4b3 !important;
+    }
+    
+    .reportInfoView.bubble.bubble-secondary .bubble-content {
+        background: #232323;
+        color: #b2b4b3
+    }
+    
+    .reportFiltersAndMetricsView .reportFiltersAndMetricsTitle div {
+        background: #1f1f1f;
+    }
+    
+    .reportFiltersAndMetricsView .reportFiltersAndMetricsTitle {
+        color: #b2b4b3;
+        background: #1f1f1f;
+    }
+    
+    .reportFiltersAndMetricsView.open .reportFiltersAndMetricsTitle {
+        background: #1f1f1f;
+    }
+    
+    .button-primary:hover {
+        border-color: #3a3839;
+        text-shadow: none;
+        background-image: none;
+    }
+    
+    .reportExportMenuButton::before {
+        border-left: 1px solid #3a3839;
+    }
+    
+    .icon-add:after, .icon-clear:after, .icon-clock:after, .icon-config:after, .icon-delete:after, .icon-dropdown:after, .icon-edit:after, .icon-lock:after, .icon-print:after, .icon-right-dropdown:before, .icon-search:after {
+        border-right: none;
+    }
+    
+    .gdc-overlay-simple {
+        box-shadow: 0 1px 0 0 #3a3839 inset, 0 3px 10px rgba(0,0,0,.25);
+        border: 1px solid #3a3839;
+        background: #232323;
+    }
+    
+    .timeFilterInner .body {
+        color: #b2b4b3;
+    }
+    
+    .timeFilterInner .cuts .yui3-c-label-selected {
+        color: #b2b4b3;
+    }
+    
+    .gdc-input, .gdc-input-wrapper .input-text {
+        box-shadow: 0 1px 0 #3a3839;
+        border: 1px solid #3a3839;
+        color: #b2b4b3;
+        background: #1f1f1f;
+    }
+    
+    .timeFilterInner .custom input, .timeFilterInner .fake span {
+        border: 1px solid #3a3839;
+        color: #b2b4b3;
+        background: #1f1f1f;
+    }
+    
+    .button-primary.active, .button-primary.is-active, .button-primary:active {
+        border-color: #3a3839;
+        text-shadow: 0 1px 1px #fff;
+        box-shadow: 0 1px 0 0 #3a3839 inset;
+    }
+    
+    .timeFilterInner .dateExample, .timeFilterInner .dateExample2 {
+        font-size: 10px;
+        color: #b2b4b3;
+    }
+    
+    .nav-global a.active {
+        background-color: #031e2b;
+    }
+    
+    .nav-global a.underline.activeLink {
+        border-color: #1e7ba9;
+    }
+    
+    .overlay-theme-black {
+        background-color: #232323;
+        border: 1px solid #3a3839;
+    }
+    
+    .input-text {
+        border: 1px solid #3a3839;
+        background: #1f1f1f;
+        color: #333;
+    }
+    
+    .yui3-listfilterpanel {
+        color: #b2b4b3;
+    }
+    
+    .yui3-listfilterpanel .yui3-c-simplecolumnwithcheckboxes-content .c-checkBox, .yui3-listfilterpanel .yui3-c-simplecolumnwithcheckboxes-content .c-checkboxSelectOnly {
+        background: #232323!important;
+    }
+    
+    .yui3-listfilterpanel .yui3-c-simplecolumn .c-checkBox:hover, .yui3-listfilterpanel .yui3-c-simplecolumn .c-checkboxSelectOnly:hover {
+        background-color: #535353!important;
+    }
+    
+    .c-checkboxSelectOnly:hover .selectOnly {
+        color: #7ab3cf;
+        background-color: #535353;
+    }
+    
+    a, a:visited {
+        color: #7ab3cf;
+    }
+    
+    .gdc-menu-simple .gdc-mezzoline {
+        background: #3a3839;
+    }
+    
+    .yui3-c-reportdashboardwidget:hover .yui3-c-reportdashboardwidget-reportLink {
+        text-decoration: none;
+        color: #7ab3cf;
+    }
+    
+    .reportFiltersAndMetricsView ul li {
+        margin-top: 14px;
+    }
+    
+    div#dashboard-content {
+        background-color: #1f1f1f;
+    }
+    
+    .dashboardHeader, .embeddedLoadingHeader, .yui3-analysisembeddedheader, .yui3-spacesembeddedheader {
+        background-image: none;
+        background-color: #232323;
+        border-bottom: 1px solid #3a3838;
+        color: #b3b3b3;
+    }
+    
+    .embedded .c-projectdashboard-content {
+        background-color: #1f1f1f;
+    }
+    
+    .embedded.embeddedDashboard .yui3-c-projectdashboard .c-projectdashboard-items {
+        background-color: #1f1f1f;
+    }
+    
+    body.white {
+        background: #1f1f1f !important;
+    }
+    
+    .dashboardHeader.is-transparent, .is-transparent.embeddedLoadingHeader {
+        background-color: #1f1f1f;
+    }
+        
+    }

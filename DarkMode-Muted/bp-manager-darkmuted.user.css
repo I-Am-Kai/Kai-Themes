@@ -992,4 +992,40 @@ i.icon-black {
     border-color: #3a3838;
 }
 
+div#dashboard-content {
+    background-color: #1f1f1f;
+}
+
+.dashboardHeader, .embeddedLoadingHeader, .yui3-analysisembeddedheader, .yui3-spacesembeddedheader {
+    background-image: none;
+    background-color: #232323;
+    border-bottom: 1px solid #3a3838;
+    color: #b3b3b3;
+}
+
+.embedded .c-projectdashboard-content {
+    background-color: #1f1f1f;
+}
+
+.embedded.embeddedDashboard .yui3-c-projectdashboard .c-projectdashboard-items {
+    background-color: #1f1f1f;
+}
+
+.yui3-dashboardtab {
+    box-shadow: 1px 0 0 0 #302c2e inset;
+    border-left: 1px solid #3a3839;
+    border-right: 1px solid #3a3839;
+    background-image: none;
+    background-color: #232323;
+    border-top: 1px solid #3a3839;
+}
+
+body.white {
+    background: #1f1f1f !important;
+}
+
+.dashboardHeader.is-transparent, .is-transparent.embeddedLoadingHeader {
+    background-color: #1f1f1f;
+}
+
 }
