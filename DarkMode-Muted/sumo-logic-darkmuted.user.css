@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Sumo Logic Dark
 @namespace   KaiThemes
-@version     1.0.0
+@version     1.0.1
 @homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
 @updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/sumo-logic-darkmuted.user.css
 @license     CC-BY-SA-4.0
@@ -520,6 +520,20 @@ a, a:visited {
 
 rect.bar {
     fill: #187bb3 !important;
+}
+
+#login-verification.ui-branding-login, #login.ui-branding-login {
+    background-color: #1f1f1f;
+}
+
+._3sR4AAt8qEwfHsCknNnWtg {
+    color: #b2b3b7;
+}
+
+._1hy3DWzKSAnlM3vU1GmJSB {
+    border: 1px solid #3a3839;
+    background-color: #335480;
+    color: #b2b3b7;
 }
 
 }
