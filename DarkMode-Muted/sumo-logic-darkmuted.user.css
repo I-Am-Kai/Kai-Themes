@@ -536,4 +536,8 @@ rect.bar {
     color: #b2b3b7;
 }
 
+.tab-navigator {
+    background-color: #232323 !important;
+}
+
 }
