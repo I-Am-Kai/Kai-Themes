@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        BP Manager Dark
 @namespace   KaiThemes
-@version     1.0.1
+@version     1.0.2
 @homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
 @updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/bp-manager-darkmuted.user.css
 @license     CC-BY-SA-4.0
@@ -1026,6 +1026,10 @@ body.white {
 
 .dashboardHeader.is-transparent, .is-transparent.embeddedLoadingHeader {
     background-color: #1f1f1f;
+}
+
+tr.till-row td {
+    background: #232323;
 }
 
 }
