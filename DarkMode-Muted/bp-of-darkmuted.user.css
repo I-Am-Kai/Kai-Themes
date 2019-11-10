@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        BP OF Dark
 @namespace   KaiThemes
-@version     1.0.1
+@version     1.0.2
 @homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
 @updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/bp-of-darkmuted.user.css
 @license     CC-BY-SA-4.0
@@ -178,5 +178,9 @@ th.column.sortable.text-xs-left {
 
 input[type="number"] {
     color: #b3b3b3;
+}
+
+.theme--light.v-table tbody tr[active] {
+    background: #2b2b2b;
 }
 }
