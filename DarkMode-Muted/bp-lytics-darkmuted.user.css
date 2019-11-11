@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        BP Analytics Dark
 @namespace   KaiThemes
-@version     1.0.1
+@version     1.0.2
 @homepageURL https://github.com/I-Am-Kai/Kai-Themes/wiki/Dark-Mode-(Muted)
 @updateURL   https://raw.githubusercontent.com/I-Am-Kai/Kai-Themes/master/DarkMode-Muted/bp-lytics-darkmuted.user.css
 @license     CC-BY-SA-4.0
@@ -525,6 +525,51 @@
 
 .theme-indigo.embeddedDashboard #abovePage, .theme-indigo.embeddedDashboard .dashboardHeader, .theme-indigo.is-onDashboard #abovePage, .theme-indigo.is-onDashboard .dashboardHeader, .theme-indigo.reportWidgetPage #abovePage, .theme-indigo.reportWidgetPage .dashboardHeader {
     background-color: #232323 !important;
+}
+
+#p-domainPage .centerColumn #domain {
+    background-color: #232323;
+}
+
+#p-domainPage .leftColumn {
+    background: url(../images/backgrounds/column_left.png?no-sprite) right top no-repeat #232323;
+}
+
+.bigListTitle, .listTitle {
+    border-bottom: 1px solid #3c3c3c;
+    color: #cdd6da;
+}
+
+#p-domainPage .centerColumn #domain #domainInfo h1 {
+    color: #cdd6da;
+}
+
+ul.listList li .rate {
+    color: #cdd6da;
+}
+
+#p-domainPage .centerColumn .reportsControls .grayBg {
+    background-color: #1f1f1f;
+}
+
+#p-domainPage .centerColumn #domain #domainInfo .domainInfo-title-wrapper {
+    border-bottom: 1px solid #3c3c3c;
+}
+
+#p-domainPage #domain #reportList .collection h2 {
+    color: #cdd6da;
+}
+
+#p-domainPage #domain #sortBar {
+    color: #cdd6da;
+}
+
+.ipe:hover, .ipeInvitation:hover {
+    background-color: #053248;
+}
+
+#p-domainPage #domain #reportList .report .metadata {
+    color: #a0a8ab;
 }
         
     }
